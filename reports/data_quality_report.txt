@@ -1,0 +1,32 @@
+Vehicle Emissions Data Quality Report
+=============================================
+Rows: 935
+Columns: 12
+
+Missing values by column:
+Model_Year                                0
+Make                                      0
+Model                                     0
+Vehicle_Class                             0
+Engine_Size                               0
+Cylinders                                 0
+Transmission                              0
+Fuel_Consumption_in_City(L/100_km)        0
+Fuel_Consumption_in_City_Hwy(L/100_km)    0
+Fuel_Consumption_comb(L/100km)            0
+CO2_Emissions                             0
+Smog_Level                                0
+dtype: int64
+
+Duplicate rows: 0
+
+CO2 emissions summary:
+count    935.000000
+mean     258.529412
+std       64.442768
+min       94.000000
+25%      213.000000
+50%      255.000000
+75%      303.500000
+max      608.000000
+Name: CO2_Emissions, dtype: float64
