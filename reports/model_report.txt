@@ -1,0 +1,5 @@
+Vehicle Emissions Regression Model Report
+=============================================
+Mean Absolute Error: 3.10
+Mean Squared Error: 103.83
+R2 Score: 0.9742
